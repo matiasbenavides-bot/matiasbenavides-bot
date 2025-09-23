@@ -1,5 +1,13 @@
 ## holaa, mi nombre es matt 
+## quien soy?
+soy un joven programador que le gusta mucho aprender lenguajes para programar y en un futuro empezar a trabajar con ello. soy entusiasta en relación a eso y tengo fe en que lo lograre
+## que me gusta hacer?
+me gusta crear paginas web para aprender y divertirme.
+## que quiero aprender?
+me gustaria aprender javascript, phyton y también aprender sobre analítica de datos
 <hr>
+
+## lenguajes
 
   [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
