@@ -4,7 +4,11 @@ soy un joven programador que le gusta mucho aprender lenguajes para programar y 
 ## que me gusta hacer?
 me gusta crear paginas web para aprender y divertirme.
 ## que quiero aprender?
-me gustaria aprender javascript, phyton y también aprender sobre analítica de datos
+aprendere javascrip, node.js, python,SQL <br>
+## que quiero trabajar?
+me gustaria trabajar como creador de paginas web.
+tambien me gustaria trabajar en analitica de datos
+
 <hr>
 
 ## lenguajes
