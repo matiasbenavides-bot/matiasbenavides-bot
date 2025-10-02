@@ -1,4 +1,4 @@
-## holaa, mi nombre es matt 
+
 ## quien soy?
 soy un joven programador que le gusta mucho aprender lenguajes para programar y en un futuro empezar a trabajar con ello. soy entusiasta en relación a eso y tengo fe en que lo lograre
 ## que me gusta hacer?
