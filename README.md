@@ -1,6 +1,6 @@
 
 ## quien soy?
-soy un joven programador que le gusta mucho aprender lenguajes para programar y en un futuro empezar a trabajar con ello. soy entusiasta en relación a eso y tengo fe en que lo lograre
+soy un joven programador  de  15 años que le gusta mucho aprender lenguajes para programar y en un futuro empezar a trabajar con ello. soy entusiasta en relación a eso y tengo fe en que lo lograre
 ## que me gusta hacer?
 me gusta crear paginas web para aprender y divertirme.
 ## que quiero aprender?
