@@ -1,16 +1,19 @@
+# 👋 ¡Hola! Soy Matías Benavides
 
-## quien soy?
-soy un joven programador  de  15 años que le gusta mucho aprender lenguajes para programar y en un futuro empezar a trabajar con ello. soy entusiasta en relación a eso y tengo fe en que lo lograre
-## que me gusta hacer?
-me gusta crear paginas web para aprender y divertirme.
-## que quiero aprender?
-aprendere javascript, node.js, python,SQL <br>
-## que quiero trabajar?
-me gustaria trabajar como creador de paginas web.
-tambien me gustaria trabajar en analitica de datos
+💻 **Desarrollador web en formación**  
+Apasionado por crear soluciones digitales modernas y funcionales.  
+Actualmente aprendiendo y mejorando mis habilidades en desarrollo **frontend y backend** para convertirme en un **desarrollador fullstack**.
 
-<hr>
-### 🚀 Tecnologías que uso
+---
+
+### 🧠 Sobre mí
+- 🎯 Enfocado en construir proyectos web limpios y eficientes  
+- 🚀 En constante aprendizaje de nuevas tecnologías  
+- 🤝 Abierto a colaborar en proyectos que aporten valor  
+
+---
+
+### ⚙️ Tecnologías y herramientas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
