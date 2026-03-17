@@ -5,10 +5,10 @@
 ---
 
 ### 🚀 Qué hago
-•🏗️ Desarrollo sistemas web para empresas
-•⚙️ Construyo aplicaciones fullstack
-•🧩 Diseño paneles administrativos y plataformas web
-•🌐 Despliego aplicaciones en infraestructura moderna
+•🏗️ Desarrollo sistemas web para empresas <br>
+•⚙️ Construyo aplicaciones fullstack <br>
+•🧩 Diseño paneles administrativos y plataformas web <br>
+•🌐 Despliego aplicaciones en infraestructura moderna<br>
 
 ---
 
