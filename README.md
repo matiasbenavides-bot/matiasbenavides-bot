@@ -22,9 +22,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
 </p>
 
-# 📦 Tipos de sistemas que desarrollo
-📊 Sistemas de gestión
-🧾 Paneles administrativos
-🏢 Sistemas internos para empresas
-🌐 Aplicaciones web completas
+# 📦 Tipos de sistemas que desarrollo <br>
+📊 Sistemas de gestión <br>
+🧾 Paneles administrativos <br>
+🏢 Sistemas internos para empresas <br>
+🌐 Aplicaciones web completas <br>
 ⚙️ Automatización de procesos
