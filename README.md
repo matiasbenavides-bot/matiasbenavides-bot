@@ -5,10 +5,10 @@
 ---
 
 ### 🚀 Qué hago
-•🏗️ Desarrollo sistemas web para empresas <br>
+**•🏗️ Desarrollo sistemas web para empresas <br>
 •⚙️ Construyo aplicaciones fullstack <br>
 •🧩 Diseño paneles administrativos y plataformas web <br>
-•🌐 Despliego aplicaciones en infraestructura moderna<br>
+•🌐 Despliego aplicaciones en infraestructura moderna<br>**
 
 ---
 
@@ -23,8 +23,8 @@
 </p>
 
 # 📦 Tipos de sistemas que desarrollo <br>
-📊 Sistemas de gestión <br>
+**📊 Sistemas de gestión <br>
 🧾 Paneles administrativos <br>
 🏢 Sistemas internos para empresas <br>
 🌐 Aplicaciones web completas <br>
-⚙️ Automatización de procesos
+⚙️ Automatización de procesos**
