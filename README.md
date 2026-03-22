@@ -18,7 +18,7 @@
 <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" width="60"> <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" width="60"> <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" width="60">
 
 ### Backend
-<img src="" alt="Node.js" width="60"> <img src="" alt="Express" width="60">
+<img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="Node.js" width="60"> <img src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000" alt="Express" width="60">
 
 ### Base de Datos
 <img src="" alt="MongoDB" width="60">
