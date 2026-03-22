@@ -21,10 +21,10 @@
 <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="Node.js" width="60"> <img src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000" alt="Express" width="60">
 
 ### Base de Datos
-<img src="" alt="MongoDB" width="60">
+<img src="https://img.icons8.com/?size=100&id=8rKdRqZFLurS&format=png&color=000000" alt="MongoDB" width="60">
 
 ### Herramientas y Despliegue
-<img src="" alt="Git" width="60"> <img src="" alt="GitHub" width="60"> <img src="" alt="Vercel" width="60"> <img src="" alt="Render" width="60">
+<img src="https://iconos8.es/icon/20906/git" alt="Git" width="60"> <img src="https://iconos8.es/icon/62856/github" alt="GitHub" width="60"> <img src="https://iconos8.es/icon/2xFS7aynbwiR/vercel" alt="Vercel" width="60"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNTOvzVWHlfxw8ynZukw4qxDF6pv1eNkUAPQ&s" alt="Render" width="60">
 
 
 
