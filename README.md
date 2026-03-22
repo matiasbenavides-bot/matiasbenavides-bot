@@ -12,15 +12,21 @@
 
 ---
 
-### ⚙️ Tecnologías y herramientas
+## ⚡ Tecnologías utilizadas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-</p>
+### Frontend
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" width="60"> <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" width="60"> <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" width="60">
+
+### Backend
+<img src="" alt="Node.js" width="60"> <img src="" alt="Express" width="60">
+
+### Base de Datos
+<img src="" alt="MongoDB" width="60">
+
+### Herramientas y Despliegue
+<img src="" alt="Git" width="60"> <img src="" alt="GitHub" width="60"> <img src="" alt="Vercel" width="60"> <img src="" alt="Render" width="60">
+
+
 
 # 📦 Tipos de sistemas que desarrollo <br>
 **📊 Sistemas de gestión <br>
